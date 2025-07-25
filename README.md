@@ -4,36 +4,36 @@ A full-stack IT Service Management system built on the ITIL v4 framework. This w
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 (Coming Soon – link to deployed version if available)
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-- 🎫 **Ticket Management**: Users can create, view, and track incidents and service requests.
-- 🔐 **Role-Based Access**: Custom dashboards for End Users, Technicians, and Administrators.
-- 🧠 **Knowledge Base**: Searchable repository of solutions and IT articles.
-- 📊 **Reporting & Analytics**: Real-time dashboard and exportable reports.
-- 📬 **Notifications**: Email alerts for ticket updates and system events.
-- 🔗 **API-First Design**: RESTful API for frontend/backend integration.
+-  **Ticket Management**: Users can create, view, and track incidents and service requests.
+-  **Role-Based Access**: Custom dashboards for End Users, Technicians, and Administrators.
+-  **Knowledge Base**: Searchable repository of solutions and IT articles.
+-  **Reporting & Analytics**: Real-time dashboard and exportable reports.
+-  **Notifications**: Email alerts for ticket updates and system events.
+-  **API-First Design**: RESTful API for frontend/backend integration.
 
 ---
 
-## 📌 ITIL Integration
+##  ITIL Integration
 
 Built following **ITIL v4** best practices:
-- ✅ Incident & Problem Management
-- ✅ Service Request Management
-- ✅ Knowledge Management
-- ✅ Change Control (Planned)
+-  Incident & Problem Management
+-  Service Request Management
+-  Knowledge Management
+-  Change Control (Planned)
 
 Supports the **Four Dimensions of Service Management** and the **Service Value System**.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js 18.3.1
@@ -62,7 +62,7 @@ Supports the **Four Dimensions of Service Management** and the **Service Value S
 
 ---
 
-## 🗄️ Database Overview
+##  Database Overview
 
 - `users`: user info & roles
 - `tickets`: service requests and incidents
@@ -74,7 +74,7 @@ Supports foreign key constraints and optimized with indexes for performance.
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 - Bcrypt password hashing
 - JWT-based auth with refresh tokens
@@ -85,7 +85,7 @@ Supports foreign key constraints and optimized with indexes for performance.
 
 ---
 
-## 📡 REST API Overview
+##  REST API Overview
 
 ### Auth Endpoints
 - `POST /api/auth/register`
@@ -108,7 +108,7 @@ Supports foreign key constraints and optimized with indexes for performance.
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Node.js v18+
@@ -118,5 +118,5 @@ Supports foreign key constraints and optimized with indexes for performance.
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/helpdesk_system.git
+git clone https://github.com/Ellaa18/helpdesk_system.git
 cd helpdesk_system
